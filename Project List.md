@@ -6,7 +6,7 @@
 * Running RPG
 * Reminders
 * Diary
-* Math Natetaking Assistant
+* Math Notetaking Assistant
 * Packet Sniffer
 * Time-Active-Tab Tracker
 * Personal Websites
