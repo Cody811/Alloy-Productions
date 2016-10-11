@@ -19,4 +19,6 @@ C |
 Java | 
 Javascript | 
 Popular JS Frameworks |
-
+Swift | 
+UI | 
+UX | 
