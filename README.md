@@ -6,6 +6,8 @@
 
 * Deploy applications, gain exeperience maintaining code.
 
+* Being able to create apps that are on par (quality wise) as an app that would make money on the market.
+
 ##Topics of Interest
 
 Topic | Context
